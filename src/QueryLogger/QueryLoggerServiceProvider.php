@@ -1,6 +1,6 @@
 <?php
 
-namespace RodrigoPedra\QueryLogger;
+namespace rjmangini\QueryLogger;
 
 use Illuminate\Support\ServiceProvider;
 

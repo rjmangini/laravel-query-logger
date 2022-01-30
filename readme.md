@@ -7,7 +7,7 @@ Logs all queries when `APP_DEBUG=true`
 ## Installation
 
 ```
-composer require rodrigopedra/laravel-query-logger
+composer require rjmangini/laravel-query-logger
 ```
 
 ## Configuration
@@ -20,7 +20,7 @@ Add the provider to your config/app.php:
 'providers' => [
     /* ... */
     
-    'RodrigoPedra\QueryLogger\QueryLoggerServiceProvider',
+    'rjmangini\QueryLogger\QueryLoggerServiceProvider',
 ]
 ```
 
